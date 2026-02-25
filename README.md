@@ -1,14 +1,14 @@
 # Timberman (C++ / raylib)
 
-A simple fast–paced 2D arcade game inspired by Timberman, written in C++ using the **raylib** library.[web:6][web:5]
+A simple fast–paced 2D arcade game inspired by Timberman, written in C++ using the **raylib** library.
 
-You chop a tree as fast as you can while dodging branches, competing for the highest score on the built‑in leaderboard.[web:12][web:18]
+You chop a tree as fast as you can while dodging branches, competing for the highest score on the built‑in leaderboard.
 
 ---
 
 ## Screenshots
 
-> Replace the paths below with actual image paths from your repository (for example: `assets/screenshots/main-menu.png`).
+> Replace the paths below with actual image paths from your repository.
 
 - **Main Menu**  
   ![Main Menu](Timberman/Resources/Screenshots/screenshot_main_menu.png)
@@ -33,8 +33,8 @@ You chop a tree as fast as you can while dodging branches, competing for the hig
 ## Features
 
 - **Background music** that loops during gameplay.
-- **Sound effects** for chopping, warnings, and game over events.[web:9]
-- Pixel‑art or simple 2D **assets** for player, tree, branches, and UI.[web:11]
+- **Sound effects** for chopping, warnings, and game over events.
+- Pixel‑art or simple 2D **assets** for player, tree, branches, and UI.
 - **Settings menu** for:
   - Volume levels (music / SFX).
   - Basic video or gameplay options (where applicable).
@@ -56,8 +56,8 @@ You chop a tree as fast as you can while dodging branches, competing for the hig
 ## Tech Stack
 
 - Language: C++
-- Framework: raylib (2D rendering, input, audio)[web:6][web:5]
-- Assets: custom sprites, bitmap fonts, and sound files loaded at runtime.[web:11]
+- Framework: raylib (2D rendering, input, audio)
+- Assets: custom sprites, bitmap fonts, and sound files loaded at runtime.
 
 ---
 
@@ -66,16 +66,4 @@ You chop a tree as fast as you can while dodging branches, competing for the hig
 ### Prerequisites
 
 - C++17 or newer toolchain (GCC/Clang/MSVC).
-- raylib installed on your system, or available as a submodule/prebuilt library.[web:11][web:4]
-
-### Building
-
-Update this section to match your project:
-
-```bash
-# Example for CMake-based project
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-mkdir build && cd build
-cmake ..
-cmake --build .
+- raylib installed on your system, or available as a submodule/prebuilt library.
