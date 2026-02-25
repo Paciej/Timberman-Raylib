@@ -11,13 +11,13 @@ You chop a tree as fast as you can while dodging branches, competing for the hig
 > Replace the paths below with actual image paths from your repository (for example: `assets/screenshots/main-menu.png`).
 
 - **Main Menu**  
-  ![Main Menu](Timberman/Resources/Assets/Screenshots/screenshot_main_menu.png)
+  ![Main Menu](Timberman/Resources/Screenshots/screenshot_main_menu.png)
 
 - **In‑Game**  
-  ![Gameplay](Timberman/Resources/Assets/Screenshots/screenshot_game.png)
+  ![Gameplay](Timberman/Resources/Screenshots/screenshot_game.png)
 
 - **Game Over Screen**  
-  ![Game Over](Timberman/Resources/Assets/Screenshots/screenshot_death.png)
+  ![Game Over](Timberman/Resources/Screenshots/screenshot_death.png)
 
 ---
 
