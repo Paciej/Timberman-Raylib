@@ -8,8 +8,6 @@ You chop a tree as fast as you can while dodging branches, competing for the hig
 
 ## Screenshots
 
-> Replace the paths below with actual image paths from your repository.
-
 - **Main Menu**  
   ![Main Menu](Timberman/Resources/Screenshots/screenshot_main_menu.png)
 
